@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import '../../../styles/ResearchTopics.css';
-import Cardiac from '../Cardiac/Cardiac';
+// import Cardiac from '../Cardiac/Cardiac';
 
 class BlackBears extends Component {
     render() {

@@ -1,13 +1,18 @@
 {
     "carousel": [
         {
-            "legend": "Stenting procedures in the lab",
+            "legend": "Latest stories about the labs",
+            "link": "media",
+            "img_path": "2019-01-01-National-Geographic.jpg"
+        },
+        {
+            "legend": "Stenting procedures in the labs",
             "link": "http://www.vhlab.umn.edu/atlas/device-tutorial/stents/index.shtml",
             "img_path": "stenting.jpg"
         },
         {
-            "legend": "Latest News",
-            "link": "media",
+            "legend": "Lab News",
+            "link": "news",
             "img_path": "umngroupphoto.jpg"
         },
         {

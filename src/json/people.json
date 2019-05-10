@@ -13,18 +13,6 @@
             "pdf": "PaulIaizzo.pdf"
         },
         {
-            "name": "Mike Bateman",
-            "credentials": "PhD",
-            "position": "Assistant Professor",
-            "email": "batem034@umn.edu",
-            "phone": "612-626-2518",
-            "designations": [
-                "Faculty"
-            ],
-            "img_name": "MikeBateman.jpg",
-            "pdf": "MikeBateman.pdf"
-        },
-        {
             "name": "Tinen Iles",
             "credentials": "PhD",
             "position": "Assistant Professor",
@@ -423,6 +411,17 @@
                 "Volunteer"
             ],
             "img_name": "AlexaMuylaert.jpg"
+        },
+        {
+            "name": "Jorge Vergen",
+            "credentials": "",
+            "position": "Biomedical Engineering",
+            "email": "verge020@umn.edu",
+            "phone": "",
+            "designations": [
+                "Masters"
+            ],
+            "img_name": "JorgeVergen.jpg"
         }
 
 

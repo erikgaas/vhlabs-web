@@ -419,6 +419,13 @@
              "description": "Research at the U of M continues to be on the cutting edge with attention worldwide. Inside the heart lab, U of M grad students carefully study a beating swine heart. Through a website, the heart is being analyzed by more students worldwide.",
              "img":"2018-03-01-Fox9.jpg",
              "goToLink":"http://www.fox9.com/news/university-of-minnesota-health-celebrates-40-years-of-heart-transplants"        
+         },
+         {
+            "date": "January 1, 2019",
+             "title": "How ancient remedies are changing modern medicine",
+             "description": "Long overlooked by Western science, traditional Chinese treatments are yielding cutting-edge cures.",
+             "img":"2019-01-01-National-Geographic.png",
+             "goToLink":"https://www.nationalgeographic.com/magazine/2019/01/ancient-chines-remedies-changing-modern-medicine"        
          }
 
     ]

@@ -22,7 +22,7 @@ import Affiliations from './components/Affiliations.js';
 import News from './components/News.js';
 import Media from './components/Media.js';
 import Publications from './components/Publications.js';
-import Contact from './components/Contact.js';
+// import Contact from './components/Contact.js';
 
 
 

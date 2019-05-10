@@ -44,7 +44,7 @@ class Directions extends Component {
 									Take the elevator to the first floor. <br></br>
 									Follow the signs to B172 Mayo.</p>
 									</div>
-								<img className="col-lg-7" id="mapImage" src={process.env.PUBLIC_URL + "/images/VHLMap.png"}></img>
+								<img className="col-lg-7" id="mapImage" alt="VHL Map" src={process.env.PUBLIC_URL + "/images/VHLMap.png"}></img>
 								</div>
 						</div>
 					</div>
