@@ -2,6 +2,13 @@ import React, { Component } from 'react';
 import Image from 'react-image-resizer';
 import '../styles/PersonCard.css';
 
+const EmailComponent = ({ children, email }) => email ? (
+  <a href={"mailto:"  + email}>
+    {children}
+  </a>
+) : <div>{children}</div>;
+
+
 const CVComponent = ({ children, pdf }) => pdf ? (
   <a href={process.env.PUBLIC_URL + "/pdfs/" + pdf} target="_blank">
     {children}
@@ -23,7 +30,11 @@ class PersonCard extends Component {
               </h5>
             </CVComponent>
             <h6 className="card-text">{this.props.data.position}</h6>
-            <p className="card-text">{this.props.data.email}</p>
+            <EmailComponent email={this.props.data.email}>
+              <p className="card-text">
+                {this.props.data.email}
+              </p>
+            </EmailComponent>
             <p className="card-text">{this.props.data.phone}</p>
           </div>
         </div>
