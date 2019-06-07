@@ -19,6 +19,19 @@ const invitedArt = invitedArticlesJSON["articles"];
 const letEd = lettEditorJSON["articles"];
 const eduMat = educationalMaterialsJSON["articles"];
 
+const PMIDComponent = ({ children, pmid }) => pmid ? (
+	<a href={"https://www.ncbi.nlm.nih.gov/pubmed/" + pmid} target="_blank">
+	  PMID: {children}
+	</a>
+  ) : "";
+  
+  const DOIComponent = ({ children, doi }) => doi ? (
+	<a href={"https://doi.org/" + doi} target="_blank">
+	  DOI: {children}
+	</a>
+  ) : "";
+  
+
 // import { pickBy, updateWith, object } from 'lodash';
 // let allData = require('./Combined')
 
@@ -112,7 +125,14 @@ class Publications extends Component {
 				});
 				
 				const originalArticles = filteredOArt.map((origAItem, index) => {
-					return <div className='origAContainer' key={index}><li><h5>{origAItem.authors} {origAItem.description} <i>{origAItem.journal}</i> {origAItem.date} {origAItem.journalID}</h5></li></div>
+					return <div className='origAContainer' key={index}><li><h5>{origAItem.authors} {origAItem.description} <i>{origAItem.journal}</i> {origAItem.date} {origAItem.journalID} 
+			    		<PMIDComponent pmid={origAItem.pmid}>
+                    	  {origAItem.pmid}
+                	    </PMIDComponent>
+			    		<DOIComponent doi={origAItem.doi}>
+                    	  {origAItem.doi}
+                	    </DOIComponent>
+					</h5></li></div>
 				});
 			
 
