@@ -400,8 +400,62 @@
                 "Masters"
             ],
             "img_name": "JorgeVergen.jpg"
+        },
+        {
+            "name": "Kylea Barnes",
+            "credentials": "",
+            "position": "Biology/Psychology",
+            "email": "barne862@umn.edu",
+            "phone": "",
+            "designations": [
+                "Volunteer"
+            ],
+            "img_name": "KyleaBarnes.jpg"
+        },
+        {
+            "name": "Kristen Ziegler",
+            "credentials": "",
+            "position": "Biology/Psychology - UROP Program",
+            "email": "ziegl261@umn.edu",
+            "phone": "",
+            "designations": [
+                "Volunteer"
+            ],
+            "img_name": "KristenZiegler.jpg"
+        },
+        {
+            "name": "Matthew Welter",
+            "credentials": "",
+            "position": "LHI Summer Scholarship program ",
+            "email": "welte147@umn.edu",
+            "phone": "",
+            "designations": [
+                "Volunteer"
+            ],
+            "img_name": "MatthewWelter.jpg"
+        },
+        {
+            "name": "Sydney Crims",
+            "credentials": "",
+            "position": "Biology, Society, & Environment",
+            "email": "crims001@umn.edu",
+            "phone": "",
+            "designations": [
+                "Volunteer"
+            ],
+            "img_name": "SydneyCrims.jpg"
+        },
+        {
+            "name": "Varun Agarwal",
+            "credentials": "",
+            "position": "Biology",
+            "email": "agarw165@umn.edu",
+            "phone": "",
+            "designations": [
+                "Volunteer"
+            ],
+            "img_name": "VarunAgarwal.jpg"
         }
-
 
 
     ]
