@@ -147,17 +147,6 @@
             "pdf": "ReneeBrigham.pdf"
         },
         {
-            "name": "Erik Gaasedelen",
-            "credentials": "",
-            "position": "Bioinformatics and Computational Biology",
-            "email": "gaas0012@umn.edu",
-            "phone": "612-624-8742",
-            "designations": [
-                "Doctoral"
-            ],
-            "img_name": "ErikGaasedelen.jpg"
-        },
-        {
             "name": "Mikayle Holm",
             "credentials": "",
             "position": "Biomedical Engineering",
@@ -414,7 +403,7 @@
             "img_name": "KyleaBarnes.jpg"
         },
         {
-            "name": "Kristen Ziegler",
+            "name": "Kirsten Ziegler",
             "credentials": "",
             "position": "Biology/Psychology - UROP Program",
             "email": "ziegl261@umn.edu",
@@ -422,7 +411,7 @@
             "designations": [
                 "Volunteer"
             ],
-            "img_name": "KristenZiegler.jpg"
+            "img_name": "KirstenZiegler.jpg"
         },
         {
             "name": "Matthew Welter",
