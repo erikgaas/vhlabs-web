@@ -445,6 +445,17 @@
                 "Volunteer"
             ],
             "img_name": "VarunAgarwal.jpg"
+        },
+        {
+            "name": "Anthony Prisco",
+            "credentials": "MD, PhD",
+            "position": "Cardiology Fellow - Physician Scientist Training Program",
+            "email": "arprisco@umn.edu",
+            "phone": "",
+            "designations": [
+                "Doctoral"
+            ],
+            "img_name": "AnthonyPrisco.jpg"
         }
 
 
