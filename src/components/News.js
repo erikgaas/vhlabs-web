@@ -8,7 +8,7 @@ var moment = require('moment');
 const newsList = labNewsJson['news'];
 
 const ImageComponent = ({ children, img }) => img ? (
-	<Image src={process.env.PUBLIC_URL + "/images/" + img} height={125} width={125}>
+	<Image src={process.env.PUBLIC_URL + "/images/news/" + img} height={125} width={125}>
 	  {children}
 	</Image>
   ) : <div>{children}</div>;
@@ -79,6 +79,7 @@ class News extends Component {
 						</div>
 				
 						<div>
+							<br></br>
 							<br></br>
 							<br></br>
 					 <div>{news}</div>

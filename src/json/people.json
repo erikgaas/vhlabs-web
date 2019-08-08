@@ -26,7 +26,7 @@
         {
             "name": "Alex Deakyne",
             "credentials": "",
-            "position": "Research Professional 1",
+            "position": "Research Professional 3",
             "email": "deaky007@umn.edu",
             "phone": "612-301-1668",
             "designations": [
@@ -271,17 +271,6 @@
             "img_name": "NickKarlovich.jpg"
         },
         {
-            "name": "Zac Novaczyk",
-            "credentials": "",
-            "position": "Volunteer (MD Candidate)",
-            "email": "novac038@umn.edu",
-            "phone": "",
-            "designations": [
-                "Volunteer"
-            ],
-            "img_name": "ZacNovaczyk.jpg"
-        },
-        {
             "name": "Kishan Patel",
             "credentials": "",
             "position": "Volunteer (Genetics)",
@@ -291,17 +280,6 @@
                 "Volunteer"
             ],
             "img_name": "KishanPatel.jpg"
-        },
-        {
-            "name": "Rohan Thakur",
-            "credentials": "",
-            "position": "Volunteer (Neuroscience)",
-            "email": "thaku043@umn.edu",
-            "phone": "",
-            "designations": [
-                "Volunteer"
-            ],
-            "img_name": "RohanThakur.jpg"
         },
         {
             "name": "Claire Thomas",
@@ -324,17 +302,6 @@
                 "Volunteer"
             ],
             "img_name": "NicholeTorgerson.jpg"
-        },
-        {
-            "name": "Windy Zheng",
-            "credentials": "",
-            "position": "Volunteer (Physiology)",
-            "email": "zheng783@umn.edu",
-            "phone": "",
-            "designations": [
-                "Volunteer"
-            ],
-            "img_name": "WindyZheng.jpg"
         },
         {
             "name": "Emma Wilson",

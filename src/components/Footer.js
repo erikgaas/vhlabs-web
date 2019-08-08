@@ -26,11 +26,16 @@ class Footer extends Component {
 							<SocialIcon url="https://www.youtube.com/channel/UCwcaO45GJ_v-WrWXEUKCXKw" className="socicon"/>
 							<a href="https://www.youtube.com/channel/UCwcaO45GJ_v-WrWXEUKCXKw" alt="Youtube Logo"><span>Youtube</span></a>
 						</span>
+						<span className="socialEl">
+
+							<SocialIcon url="https://www.linkedin.com/groups/7071223/" className="socicon"/>
+							<a href="https://www.linkedin.com/groups/7071223/" alt="LinkedIn Logo"><span>LinkedIn</span></a>
+						</span>
 
 						<a href="/gift">
 						<span className="socialEl">
 							<img className="gift" src={process.env.PUBLIC_URL + "/images/icons/gift.png"} width={50} alt={'Giving Hands'}/>
-							<span>Give a Gift</span>
+							<span>Give&nbsp;a&nbsp;Gift</span>
 						</span></a>
 					</div>
 

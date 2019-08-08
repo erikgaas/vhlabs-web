@@ -24,6 +24,8 @@ import Media from './components/Media.js';
 import Publications from './components/Publications.js';
 // import Contact from './components/Contact.js';
 
+import PAI from './components/Paul.js';
+
 
 
 import ThreeDModeling from './components/ResearchTopics/3DModeling/3DModeling.js';
@@ -89,6 +91,9 @@ class App extends Component {
           <Route path="/affiliations" component={Affiliations} />
           <Route path="/news" component={News} />
           <Route path="/media" component={Media} />
+
+          <Route path="/paul" component={PAI} />
+
 
           <Route path="/publications" component={Publications} />
 
