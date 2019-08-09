@@ -190,7 +190,8 @@
             "designations": [
                 "Doctoral"
             ],
-            "img_name": "AmandaTenhoff.jpg"
+            "img_name": "AmandaTenhoff.jpg",
+            "pdf": "AmandaTenhoff.pdf"
         },
         {
             "name": "Jorge Zhingre Sanchez",
@@ -229,7 +230,7 @@
         {
             "name": "Kendall Emfield",
             "credentials": "",
-            "position": "Volunteer (Human Biology)",
+            "position": "Human Biology",
             "email": "emfield@usc.edu",
             "phone": "",
             "designations": [
@@ -240,7 +241,7 @@
         {
             "name": "Mahdi Hurreh",
             "credentials": "",
-            "position": "Volunteer (Physiology)",
+            "position": "Physiology",
             "email": "hurre009@umn.edu",
             "phone": "",
             "designations": [
@@ -251,7 +252,7 @@
         {
             "name": "Chloe Johnson",
             "credentials": "",
-            "position": "Volunteer (Animal Science/Pre-vet)",
+            "position": "Animal Science/Pre-vet",
             "email": "joh11648@umn.edu",
             "phone": "",
             "designations": [
@@ -262,7 +263,7 @@
         {
             "name": "Nick Karlovich",
             "credentials": "",
-            "position": "Volunteer (Computer Science)",
+            "position": "Computer Science",
             "email": "karlo015@umn.edu",
             "phone": "",
             "designations": [
@@ -273,7 +274,7 @@
         {
             "name": "Kishan Patel",
             "credentials": "",
-            "position": "Volunteer (Genetics)",
+            "position": "Genetics",
             "email": "patel563@umn.edu",
             "phone": "",
             "designations": [
@@ -284,7 +285,7 @@
         {
             "name": "Claire Thomas",
             "credentials": "",
-            "position": "Volunteer (Biochemistry)",
+            "position": "Biochemistry",
             "email": "thom5700@umn.edu",
             "phone": "",
             "designations": [
@@ -306,7 +307,7 @@
         {
             "name": "Emma Wilson",
             "credentials": "",
-            "position": "Volunteer (Biomedical Engineering)",
+            "position": "Biomedical Engineering",
             "email": "wil00534@umn.edu",
             "phone": "",
             "designations": [
@@ -317,7 +318,7 @@
         {
             "name": "Karene Jensen",
             "credentials": "",
-            "position": "Volunteer (Biomedical Engineering)",
+            "position": "Biomedical Engineering",
             "email": "jens1777@umn.edu",
             "phone": "",
             "designations": [
@@ -328,7 +329,7 @@
         {
             "name": "Dannyelle Donahue",
             "credentials": "",
-            "position": "Volunteer (Biomedical Engineering)",
+            "position": "Biomedical Engineering",
             "email": "donah138@umn.edu",
             "phone": "",
             "designations": [
@@ -339,7 +340,7 @@
         {
             "name": "Alexa Muylaert",
             "credentials": "",
-            "position": "Volunteer (Nursing)",
+            "position": "Nursing",
             "email": "muyla001@umn.edu",
             "phone": "",
             "designations": [
@@ -422,7 +423,30 @@
             "designations": [
                 "Doctoral"
             ],
-            "img_name": "AnthonyPrisco.jpg"
+            "img_name": "AnthonyPrisco.jpg",
+            "pdf": "AnthonyPrisco.pdf"
+        },
+        {
+            "name": "Savannah Martinson",
+            "credentials": "",
+            "position": "Biology",
+            "email": "savannah.martinson@comcast.net",
+            "phone": "",
+            "designations": [
+                "Volunteer"
+            ],
+            "img_name": "SavannahMartinson.jpg"
+        },
+        {
+            "name": "Maia Warner",
+            "credentials": "",
+            "position": "Neuroscience",
+            "email": "Maia.S.Warner@gmail.com",
+            "phone": "",
+            "designations": [
+                "Volunteer"
+            ],
+            "img_name": "MaiaWarner.jpg"
         }
 
 
