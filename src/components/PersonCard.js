@@ -15,6 +15,13 @@ const CVComponent = ({ children, pdf }) => pdf ? (
   </a>
 ) : <div>{children}</div>;
 
+const LinkedInComponent = ({ children, linkedin }) => linkedin ? (
+  <a href={linkedin} target="_blank">
+    LinkedIn
+  </a>
+) : <div>{children}</div>;
+
+
 class PersonCard extends Component {
   
   render() {
@@ -35,7 +42,14 @@ class PersonCard extends Component {
                 {this.props.data.email}
               </p>
             </EmailComponent>
-            <p className="card-text">{this.props.data.phone}</p>
+            <p className="card-text">
+              {this.props.data.phone}
+            </p>
+            <LinkedInComponent linkedin={this.props.data.linkedin}>
+              <p className="card-text">
+                {this.props.data.linkedin}
+              </p>
+            </LinkedInComponent>
           </div>
         </div>
       </div>

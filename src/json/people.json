@@ -10,7 +10,8 @@
                 "Faculty"
             ],
             "img_name": "PaulIaizzo.jpg",
-            "pdf": "PaulIaizzo.pdf"
+            "pdf": "PaulIaizzo.pdf",
+            "linkedin": "https://www.linkedin.com/in/paul-a-iaizzo-9906a26/"
         },
         {
             "name": "Tinen Iles",
@@ -22,7 +23,8 @@
                 "Faculty"
             ],
             "img_name": "TinenIles.jpg",
-            "pdf": "TinenIles.pdf"
+            "pdf": "TinenIles.pdf",
+            "linkedin": "https://www.linkedin.com/in/tinen-iles-78189920/"
         },
         {
             "name": "Alex Deakyne",
@@ -34,7 +36,8 @@
                 "Staff",
                 "Doctoral"
             ],
-            "img_name": "AlexDeakyne.jpg"
+            "img_name": "AlexDeakyne.jpg",
+            "linkedin": "https://www.linkedin.com/in/alex-deakyne-36091a81/"
         },
         {
             "name": "Monica Mahre",
@@ -45,7 +48,8 @@
             "designations": [
                 "Staff"
             ],
-            "img_name": "MonicaMahre.jpg"
+            "img_name": "MonicaMahre.jpg",
+            "linkedin": "https://www.linkedin.com/in/monica-mahre-876952139/"
         },
         {
             "name": "Cory Swingen",
@@ -56,7 +60,8 @@
             "designations": [
                 "Adjunct"
             ],
-            "img_name": "CorySwingen.jpg"
+            "img_name": "CorySwingen.jpg",
+            "linkedin": "https://www.linkedin.com/in/cswingen/"
         },
         {
             "name": "Weston Upchurch",
@@ -67,7 +72,8 @@
             "designations": [
                 "Staff"
             ],
-            "img_name": "WestonUpchurch.jpg"
+            "img_name": "WestonUpchurch.jpg",
+            "linkedin": "https://www.linkedin.com/in/weston-upchurch-2b6581b5/"
         },
         {
             "name": "Rita Anderson",
@@ -89,7 +95,8 @@
             "designations": [
                 "Staff"
             ],
-            "img_name": "GaryWilliams.jpg"
+            "img_name": "GaryWilliams.jpg",
+            "linkedin": "https://www.linkedin.com/in/gary-williams-a868b24/"
         },
         {
             "name": "Michael Eggen",
@@ -145,7 +152,8 @@
                 "Doctoral"
             ],
             "img_name": "ReneeBrigham.jpg",
-            "pdf": "ReneeBrigham.pdf"
+            "pdf": "ReneeBrigham.pdf",
+            "linkedin": "https://www.linkedin.com/in/reneebrigham/"
         },
         {
             "name": "Mikayle Holm",
@@ -157,7 +165,8 @@
                 "Doctoral"
             ],
             "img_name": "MikayleHolm.jpg",
-            "pdf": "MikayleHolm.pdf"
+            "pdf": "MikayleHolm.pdf",
+            "linkedin": "https://www.linkedin.com/in/mikayle-holm-2b75b560/"
         },
         {
             "name": "David Ramirez",
@@ -168,7 +177,8 @@
             "designations": [
                 "Doctoral"
             ],
-            "img_name": "DavidRamirez.jpg"
+            "img_name": "DavidRamirez.jpg",
+            "linkedin": "https://www.linkedin.com/in/david-ramirez-96065989/"
         },
         {
             "name": "Emma Schinstock",
@@ -180,7 +190,8 @@
                 "Doctoral"
             ],
             "img_name": "EmmaSchinstock.jpg",
-            "pdf": "EmmaSchinstock.pdf"
+            "pdf": "EmmaSchinstock.pdf",
+            "linkedin": "https://www.linkedin.com/in/emma-schinstock-37553612a/"
         },
         {
             "name": "Amanda Tenhoff",
@@ -192,7 +203,8 @@
                 "Doctoral"
             ],
             "img_name": "AmandaTenhoff.jpg",
-            "pdf": "AmandaTenhoff.pdf"
+            "pdf": "AmandaTenhoff.pdf",
+            "linkedin": "https://www.linkedin.com/in/amandatenhoff/"
         },
         {
             "name": "Jorge Zhingre Sanchez",
@@ -204,7 +216,8 @@
                 "Doctoral"
             ],
             "img_name": "JorgeZhingreSanchez.jpg",
-            "pdf": "JorgeZhingreSanchez.pdf"
+            "pdf": "JorgeZhingreSanchez.pdf",
+            "linkedin": "https://www.linkedin.com/in/jorge-zhingre-sanchez-41481bba/"
         },
         {
             "name": "Alyssa Jackson",
@@ -317,17 +330,6 @@
             "img_name": "EmmaWilson.jpg"
         },
         {
-            "name": "Karene Jensen",
-            "credentials": "",
-            "position": "Biomedical Engineering",
-            "email": "jens1777@umn.edu",
-            "phone": "",
-            "designations": [
-                "Volunteer"
-            ],
-            "img_name": "KareneJensen.jpg"
-        },
-        {
             "name": "Dannyelle Donahue",
             "credentials": "",
             "position": "Biomedical Engineering",
@@ -425,7 +427,8 @@
                 "Doctoral"
             ],
             "img_name": "AnthonyPrisco.jpg",
-            "pdf": "AnthonyPrisco.pdf"
+            "pdf": "AnthonyPrisco.pdf",
+            "linkedin": "https://www.linkedin.com/in/anthony-prisco-72781613/"
         },
         {
             "name": "Savannah Martinson",
