@@ -118,7 +118,8 @@
             "designations": [
                 "Adjunct"
             ],
-            "img_name": "AlexanderHill.jpg"
+            "img_name": "AlexanderHill.jpg",
+            "linkedin": "https://www.linkedin.com/in/hillalexander/"
         },
         {
             "name": "Timothy Laske",
@@ -129,7 +130,8 @@
             "designations": [
                 "Adjunct"
             ],
-            "img_name": "TimothyLaske.jpg"
+            "img_name": "TimothyLaske.jpg",
+            "linkedin": "https://www.linkedin.com/in/tim-laske-a4baa54/"
         },
         {
             "name": "Nicholas Skadsberg",
@@ -140,7 +142,8 @@
             "designations": [
                 "Adjunct"
             ],
-            "img_name": "NicholasSkadsberg.jpg"
+            "img_name": "NicholasSkadsberg.jpg",
+            "linkedin": "https://www.linkedin.com/in/nick-skadsberg-0237b262/"
         },
         {
             "name": "Renee Brigham",
@@ -239,7 +242,9 @@
             "designations": [
                 "Doctoral"
             ],
-            "img_name": "TommyValenzuela.jpg"
+            "img_name": "TommyValenzuela.jpg",
+            "pdf": "TommyValenzuela.pdf",
+            "linkedin": "https://www.linkedin.com/in/thomasvalenzuela/"
         },
         {
             "name": "Kendall Emfield",
