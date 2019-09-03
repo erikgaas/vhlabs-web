@@ -1,0 +1,50 @@
+{
+"education" : [
+    {
+    "year": "1978",
+    "degree": "BS",
+    "major": "Biology",
+    "location": "University of Minnesota, Duluth"
+    },
+    {
+      "year": "1980",
+      "degree": "MS",
+      "major": "Physiology",
+      "location": "University of Minnesota, Duluth"
+    },
+    {
+      "year": "1986",
+      "degree": "PhD",
+      "major": "Physiology",
+      "location": "University of Minnesota"
+    },
+    {
+      "year": "1986",
+      "degree": "Post-doc",
+      "major": "Physiology",
+      "location": "Mayo Clinic (NIH fellowship)"
+    },
+    {
+      "year": "1987-88",
+      "degree": "Post-doc",
+      "major": "Physiology",
+      "location": "Technical University of Munich"
+  }],
+
+   "educationcolumns" : [{
+    "Header": "Year",
+    "accessor": "year"
+    },
+    {
+    "Header": "Degree",
+    "accessor": "degree"
+    },
+    {
+    "Header": "Major",
+    "accessor": "major"
+    },
+    {
+    "Header": "Location",
+    "accessor": "location"
+      }]
+}

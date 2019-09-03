@@ -1,0 +1,24 @@
+{
+    "gradcolumns" : [{
+        "Header": "Name",
+        "accessor": "name"
+        },
+        {
+        "Header": "Years",
+        "accessor": "years"
+        },
+        {
+        "Header": "Current Position",
+        "accessor": "current"
+        }],
+    
+    "undergradcolumns" : [{
+        "Header": "Name",
+        "accessor": "name"
+        },
+        {
+        "Header": "Years",
+        "accessor": "years"
+        }]
+    
+}

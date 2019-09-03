@@ -22,6 +22,7 @@ class NavBar extends Component {
         						</a>
 								<div className="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
 									<a className="dropdown-item" href="/about">Meet the Lab</a>
+									<a className="dropdown-item" href="/former">Former Students</a>
 									<a className="dropdown-item" href="/collaborators">Collaborators</a>
 									<a className="dropdown-item" href="/affiliations">Department Affiliations</a>
 									<a className="dropdown-item" href="/outreach">Outreach</a>

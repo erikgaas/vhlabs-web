@@ -1,0 +1,20 @@
+{
+"academic" : [
+    {
+    "years": "1979-1981",
+    "position": "Sea Grant Pre-doctoral Trainee, University of Minnesota (Duluth, MN)"
+    },
+    {
+      "years": "1981-1983",
+      "position": "Research and Teaching Assistant, Laboratory of Neurophysiology, University of Minnesota (Minneapolis, MN)"
+  }],
+
+   "academiccolumns" : [{
+    "Header": "Years",
+    "accessor": "years"
+    },
+    {
+    "Header": "Position",
+    "accessor": "position"
+    }]
+}

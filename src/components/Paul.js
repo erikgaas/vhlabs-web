@@ -1,5 +1,16 @@
 import React, { Component } from 'react';
 import '../styles/Outreach.css';
+import ReactTable from "react-table";
+import "react-table/react-table-unminify.css";
+import paiEducationJSON from "../json/pai/education.json";
+import paiAcademicJSON from "../json/pai/academic.json";
+
+const education = paiEducationJSON["education"];
+const educationcolumns = paiEducationJSON["educationcolumns"];
+const academic = paiAcademicJSON["academic"];
+const academiccolumns = paiAcademicJSON["academiccolumns"];
+
+
 
 class PAI extends Component {
 	render() {
@@ -32,10 +43,36 @@ class PAI extends Component {
 					<p>It has been my good fortune to witness nearly 70 graduate students complete their degrees while working in my laboratory. Currently, there are 7 doctoral students and 3 masters students working on their research projects in my lab. Yes, it does take much time and effort to train such a group of students, but the mentoring adventure is what, in part, motivates me to continue searching for funding for my research. Additionally, I have been fortunate to have high degrees of camaraderie amongst the students in my lab, hence they play a large role in training each other. More importantly, the way I look at it, I have come to make many good friends while students have worked with me on my research interests.
 					</p>
 				</div>
+
+				<h4>Education</h4>	
+
+				<div className='section-container'>
+				<ReactTable
+				  data={education}
+				  columns={educationcolumns}
+				  minRows = {0}
+				  showPagination = {false}
+				/>
+				</div>      
+
+				<h4>Academic Positions</h4>	
+
+				<div className='section-container'>
+				<ReactTable
+				  data={academic}
+				  columns={academiccolumns}
+				  minRows = {0}
+				  showPagination = {false}
+				/>
+				</div>      
+
+
 			</div>
 				
-			);
+		);
 	}
 }
 
-export default PAI;
+  export default PAI;
+  
+
