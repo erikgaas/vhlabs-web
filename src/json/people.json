@@ -380,17 +380,6 @@
             "img_name": "JorgeVergen.jpg"
         },
         {
-            "name": "Kylea Barnes",
-            "credentials": "",
-            "position": "Biology/Psychology",
-            "email": "barne862@umn.edu",
-            "phone": "",
-            "designations": [
-                "Volunteer"
-            ],
-            "img_name": "KyleaBarnes.jpg"
-        },
-        {
             "name": "Kirsten Ziegler",
             "credentials": "",
             "position": "Biology/Psychology - UROP Program",
@@ -468,6 +457,39 @@
                 "Volunteer"
             ],
             "img_name": "MaiaWarner.jpg"
+        },
+        {
+            "name": "Rachel Wilharm",
+            "credentials": "",
+            "position": "Physiology/Health Psychology",
+            "email": "wilha009@umn.edu",
+            "phone": "",
+            "designations": [
+                "Volunteer"
+            ],
+            "img_name": "RachelWilharm.jpg"
+        },
+        {
+            "name": "Michelle Uchenik",
+            "credentials": "",
+            "position": "Biomedical Engineering",
+            "email": "uchen002@umn.edu",
+            "phone": "",
+            "designations": [
+                "Volunteer"
+            ],
+            "img_name": "MichelleUchenik.jpg"
+        },
+        {
+            "name": "Emma Olmscheid",
+            "credentials": "",
+            "position": "Biomedical Engineering",
+            "email": "olmsc047@umn.edu",
+            "phone": "",
+            "designations": [
+                "Volunteer"
+            ],
+            "img_name": "EmmaOlmscheid.jpg"
         }
 
 
