@@ -26,6 +26,7 @@ class FormerStudents extends Component {
               data={postdoc}
               columns={gradcolumns}
               minRows = {0}
+              defaultPageSize={1000}
               showPagination = {false}
               defaultSorted={[{
                 id   : 'years',
