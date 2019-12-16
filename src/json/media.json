@@ -409,7 +409,7 @@
          {
             "date": "September 13, 2018",
              "title": "Red Heart Soiree: An evening to benefit cardiovascular Health",
-             "description": "Paul Iaizzo and the Visible Heart Lab were featured in the Red Heart Soiree video on heart transplantation.",
+             "description": "Paul Iaizzo and the Visible Heart Labs were featured in the Red Heart Soiree video on heart transplantation.",
              "img":"RedHeartSoiree.jpg",
              "goToLink":"https://www.youtube.com/watch?v=dRT46w0qwvc&feature=youtu.be&t=167"        
          },
@@ -426,6 +426,13 @@
              "description": "Long overlooked by Western science, traditional Chinese treatments are yielding cutting-edge cures.",
              "img":"2019-01-01-National-Geographic.png",
              "goToLink":"https://www.nationalgeographic.com/magazine/2019/01/ancient-chines-remedies-changing-modern-medicine"        
+         },
+         {
+            "date": "May 1, 2019",
+             "title": "Bifurcation Exploration",
+             "description": "The Visible Heart Labs are featured on the Medtronic Bifurcation Exploration website.",
+             "img":"2019-05-01-Medtronic.png",
+             "goToLink":"http://www.medtronic.com/bifurcation"        
          },
          {
             "date": "December 15, 2019",
