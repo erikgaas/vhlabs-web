@@ -303,17 +303,6 @@
             "img_name": "KishanPatel.jpg"
         },
         {
-            "name": "Claire Thomas",
-            "credentials": "",
-            "position": "Biochemistry",
-            "email": "thom5700@umn.edu",
-            "phone": "",
-            "designations": [
-                "Volunteer"
-            ],
-            "img_name": "ClaireThomas.jpg"
-        },
-        {
             "name": "Nichole Torgerson",
             "credentials": "",
             "position": "Volunteer",
@@ -347,17 +336,6 @@
             "img_name": "DannyelleDonahue.jpg"
         },
         {
-            "name": "Alexa Muylaert",
-            "credentials": "",
-            "position": "Nursing",
-            "email": "muyla001@umn.edu",
-            "phone": "",
-            "designations": [
-                "Volunteer"
-            ],
-            "img_name": "AlexaMuylaert.jpg"
-        },
-        {
             "name": "Jorge Vergen",
             "credentials": "",
             "position": "Bioinformatics",
@@ -381,17 +359,6 @@
             "img_name": "KirstenZiegler.jpg"
         },
         {
-            "name": "Matthew Welter",
-            "credentials": "",
-            "position": "LHI Summer Scholarship program ",
-            "email": "welte147@umn.edu",
-            "phone": "",
-            "designations": [
-                "Volunteer"
-            ],
-            "img_name": "MatthewWelter.jpg"
-        },
-        {
             "name": "Sydney Crims",
             "credentials": "",
             "position": "Biology, Society, & Environment",
@@ -401,17 +368,6 @@
                 "Volunteer"
             ],
             "img_name": "SydneyCrims.jpg"
-        },
-        {
-            "name": "Varun Agarwal",
-            "credentials": "",
-            "position": "Biology",
-            "email": "agarw165@umn.edu",
-            "phone": "",
-            "designations": [
-                "Volunteer"
-            ],
-            "img_name": "VarunAgarwal.jpg"
         },
         {
             "name": "Anthony Prisco",
@@ -425,28 +381,6 @@
             "img_name": "AnthonyPrisco.jpg",
             "pdf": "AnthonyPrisco.pdf",
             "linkedin": "https://www.linkedin.com/in/anthony-prisco-72781613/"
-        },
-        {
-            "name": "Savannah Martinson",
-            "credentials": "",
-            "position": "Biology",
-            "email": "savannah.martinson@comcast.net",
-            "phone": "",
-            "designations": [
-                "Volunteer"
-            ],
-            "img_name": "SavannahMartinson.jpg"
-        },
-        {
-            "name": "Maia Warner",
-            "credentials": "",
-            "position": "Neuroscience",
-            "email": "Maia.S.Warner@gmail.com",
-            "phone": "",
-            "designations": [
-                "Volunteer"
-            ],
-            "img_name": "MaiaWarner.jpg"
         },
         {
             "name": "Rachel Wilharm",
@@ -471,15 +405,37 @@
             "img_name": "MichelleUchenik.jpg"
         },
         {
-            "name": "Emma Olmscheid",
+            "name": "Justin Chen",
             "credentials": "",
-            "position": "Biomedical Engineering",
-            "email": "olmsc047@umn.edu",
+            "position": "Medical Engineering",
+            "email": "chen5846@umn.edu",
             "phone": "",
             "designations": [
                 "Volunteer"
             ],
-            "img_name": "EmmaOlmscheid.jpg"
+            "img_name": "JustinChen.jpg"
+        },
+        {
+            "name": "Tran Lu",
+            "credentials": "",
+            "position": "Biomedical Engineering",
+            "email": "luxx0605@umn.edu",
+            "phone": "",
+            "designations": [
+                "Volunteer"
+            ],
+            "img_name": "TranLu.jpg"
+        },
+        {
+            "name": "Rachel Gasser",
+            "credentials": "",
+            "position": "Biomedical Engineering & Public Health",
+            "email": "gasse026@umn.edu",
+            "phone": "",
+            "designations": [
+                "Volunteer"
+            ],
+            "img_name": "RachelGasser.jpg"
         }
 
 
