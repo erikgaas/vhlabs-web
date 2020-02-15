@@ -23,7 +23,7 @@
     "react-table": "^6.10.0",
     "react-twitter-widgets": "^1.7.1",
     "reactable": "^1.1.0",
-    "yarn": "^1.12.3"
+    "yarn": "^1.22.0"
   },
   "scripts": {
     "start": "react-scripts start",
