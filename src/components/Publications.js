@@ -20,7 +20,7 @@ const letEd = lettEditorJSON["articles"];
 const eduMat = educationalMaterialsJSON["articles"];
 
 const PMIDComponent = ({ children, pmid }) => pmid ? (
-	<a href={"https://www.ncbi.nlm.nih.gov/pubmed/" + pmid} target="_blank">
+	<a href={"https://pubmed.ncbi.nlm.nih.gov/" + pmid} target="_blank">
 	  PMID: {children}
 	</a>
   ) : "";
@@ -125,10 +125,10 @@ class Publications extends Component {
 				});
 				
 				const originalArticles = filteredOArt.map((origAItem, index) => {
-					return <div className='origAContainer' key={index}><li><h5>{origAItem.authors} {origAItem.description} <i>{origAItem.journal}</i> {origAItem.date} {origAItem.journalID} 
+					return <div className='origAContainer' key={index}><li><h5>{origAItem.authors} {origAItem.description} <i>{origAItem.journal}</i> {origAItem.date} {origAItem.journalID}&nbsp;
 			    		<PMIDComponent pmid={origAItem.pmid}>
                     	  {origAItem.pmid}
-                	    </PMIDComponent>
+                	    </PMIDComponent>&nbsp;
 			    		<DOIComponent doi={origAItem.doi}>
                     	  {origAItem.doi}
                 	    </DOIComponent>
@@ -147,8 +147,15 @@ class Publications extends Component {
 				});
 
 				const reviewA = filteredRArt.map((revAItem, index) => {
-					return <div className='revAContainer' key={index}><li><h5>{revAItem.authors} {revAItem.description} <i>{revAItem.publisher}</i> {revAItem.date}</h5></li></div>
-				});
+					return <div className='revAContainer' key={index}><li><h5>{revAItem.authors} {revAItem.description} <i>{revAItem.publisher}</i> {revAItem.date}&nbsp;
+					<PMIDComponent pmid={revAItem.pmid}>
+					{revAItem.pmid}
+				  </PMIDComponent>&nbsp;
+				  <DOIComponent doi={revAItem.doi}>
+					{revAItem.doi}
+				  </DOIComponent>
+				  </h5></li></div>
+		  });
 	
 
 

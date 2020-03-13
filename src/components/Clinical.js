@@ -25,14 +25,14 @@ class Clinical extends Component {
 							Tae Kim, MD
 							<br></br>
 							Thomas Kozhimannil, MD</p>
-							<p>(Contact Paul A. Iaizzo, PhD, FHRS, John Capacchione, MD (612-624-9990), Tinen Iles, PhD (612-624-3641), or Rita Anderson (612-624-3959) for general information on malignant hyperthermia and the in vitro contracture test)</p>
+							<p>(Contact Paul A. Iaizzo, PhD, FHRS, John Capacchione, MD (612-624-9990), Tinen Iles, PhD (612-625-3641), or Rita Anderson (612-624-3959) for general information on malignant hyperthermia and the in vitro contracture test)</p>
 
 					<h4 id="clinicalHeaders">Policy and Procedure</h4>
 						<p>An in vitro contracture test for the determination of susceptibility to malignant hyperthermia (MH) will be performed on patients who are viable candidates for testing, and have either agreed to pay for the procedure or have obtained prior approval for the procedure from their insurance companies. Our laboratories are a member of the North American Malignant Hyperthermia Registry.</p>
 						<br></br>
 						<p>The procedure consists of the following:</p>
 							<h6><strong>I. Consultation/Scheduling</strong></h6>
-						<p>Patients may be referred to the Malignant Hyperthermia Muscle Biopsy Center at the University of Minnesota by their referring physicians or they may contact the center on their own. In either case, contact either Paul A. Iaizzo, PhD, FHRS (612-624-7912), John Capacchione (612-624-9990), Tinen Iles (612-624-3641), or Rita Anderson (612-624-3959) to determine if you are a viable candidate for the in vitro contracture test. If testing is recommended, you will be asked to seek pre-approval for the procedure from your insurance company, or agree to be personally responsible for the costs. The appropriate CPT codes for insurance reimbursement are:</p>
+						<p>Patients may be referred to the Malignant Hyperthermia Muscle Biopsy Center at the University of Minnesota by their referring physicians or they may contact the center on their own. In either case, contact either Paul A. Iaizzo, PhD, FHRS (612-624-7912), John Capacchione (612-624-9990), Tinen Iles (612-625-3641), or Rita Anderson (612-624-3959) to determine if you are a viable candidate for the in vitro contracture test. If testing is recommended, you will be asked to seek pre-approval for the procedure from your insurance company, or agree to be personally responsible for the costs. The appropriate CPT codes for insurance reimbursement are:</p>
 
 						<p><strong>Malignant Hyperthermia Biopsy:</strong></p>
 							<p>20205 Biopsy, Muscle; deep 

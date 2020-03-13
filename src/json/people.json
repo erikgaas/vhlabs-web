@@ -303,17 +303,6 @@
             "img_name": "KishanPatel.jpg"
         },
         {
-            "name": "Nichole Torgerson",
-            "credentials": "",
-            "position": "Volunteer",
-            "email": "torge194@umn.edu",
-            "phone": "",
-            "designations": [
-                "Volunteer"
-            ],
-            "img_name": "NicholeTorgerson.jpg"
-        },
-        {
             "name": "Emma Wilson",
             "credentials": "",
             "position": "Biomedical Engineering",
@@ -436,6 +425,39 @@
                 "Volunteer"
             ],
             "img_name": "RachelGasser.jpg"
+        },
+        {
+            "name": "Daima Mosiori",
+            "credentials": "",
+            "position": "Human Physiology",
+            "email": "mosio006@umn.edu",
+            "phone": "",
+            "designations": [
+                "Volunteer"
+            ],
+            "img_name": "DaimaMosiori.jpg"
+        },
+        {
+            "name": "Kothai Seelan",
+            "credentials": "",
+            "position": "Electrical Engineering",
+            "email": "seela002@umn.edu",
+            "phone": "",
+            "designations": [
+                "Volunteer"
+            ],
+            "img_name": "KothaiSeelan.jpg"
+        },
+        {
+            "name": "Afeefa Ahmed",
+            "credentials": "",
+            "position": "Human Physiology",
+            "email": "ahmed926@umn.edu",
+            "phone": "",
+            "designations": [
+                "Volunteer"
+            ],
+            "img_name": "AfeefaAhmed.jpg"
         }
 
 
