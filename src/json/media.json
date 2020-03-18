@@ -404,42 +404,70 @@
              "title": "How virtual reality is changing cardiovascular care",
              "description": "Now that virtual reality has become actual reality, it’s slowly but surely revolutionizing the treatment of heart disease and stroke.",
              "img":"VR.jpg",
-             "goToLink":"https://news.heart.org/virtual-reality-changing-cardiovascular-care"        
+             "goToLink":"https://news.heart.org/virtual-reality-changing-cardiovascular-care"
          },
          {
             "date": "September 13, 2018",
              "title": "Red Heart Soiree: An evening to benefit cardiovascular Health",
              "description": "Paul Iaizzo and the Visible Heart Labs were featured in the Red Heart Soiree video on heart transplantation.",
              "img":"RedHeartSoiree.jpg",
-             "goToLink":"https://www.youtube.com/watch?v=dRT46w0qwvc&feature=youtu.be&t=167"        
+             "goToLink":"https://www.youtube.com/watch?v=dRT46w0qwvc&feature=youtu.be&t=167"
          },
          {
             "date": "March 1, 2018",
              "title": "University of Minnesota Medical School celebrates 40 years of heart transplants",
              "description": "Research at the U of M continues to be on the cutting edge with attention worldwide. Inside the heart lab, U of M grad students carefully study a beating swine heart. Through a website, the heart is being analyzed by more students worldwide.",
              "img":"2018-03-01-Fox9.jpg",
-             "goToLink":"http://www.fox9.com/news/university-of-minnesota-health-celebrates-40-years-of-heart-transplants"        
+             "goToLink":"http://www.fox9.com/news/university-of-minnesota-health-celebrates-40-years-of-heart-transplants"
          },
          {
             "date": "January 1, 2019",
              "title": "How ancient remedies are changing modern medicine",
              "description": "Long overlooked by Western science, traditional Chinese treatments are yielding cutting-edge cures.",
              "img":"2019-01-01-National-Geographic.png",
-             "goToLink":"https://www.nationalgeographic.com/magazine/2019/01/ancient-chines-remedies-changing-modern-medicine"        
+             "goToLink":"https://www.nationalgeographic.com/magazine/2019/01/ancient-chines-remedies-changing-modern-medicine"
          },
          {
             "date": "May 1, 2019",
              "title": "Bifurcation Exploration",
              "description": "The Visible Heart Labs are featured on the Medtronic Bifurcation Exploration website.",
              "img":"2019-05-01-Medtronic.png",
-             "goToLink":"http://www.medtronic.com/bifurcation"        
+             "goToLink":"http://www.medtronic.com/bifurcation"
          },
          {
             "date": "December 15, 2019",
              "title": "Into the Bear's Lair",
              "description": "Researchers study the hibernation habits of Minnesota's black bears to benefit their kind—and maybe ours.",
              "img":"2019-12-15-DNR.jpg",
-             "goToLink":"https://www.dnr.state.mn.us/mcvmagazine/issues/2020/jan-feb/bears.html"        
+             "goToLink":"https://www.dnr.state.mn.us/mcvmagazine/issues/2020/jan-feb/bears.html"
+         },
+         {
+            "date": "December 6, 2019",
+             "title": "Into the Den: Investigating Hibernation",
+             "description": "Can bears and bats lead to biomedical discoveries and boost space travel?",
+             "img":"2019-12-06-BioScience.jpg",
+             "goToLink":"https://academic.oup.com/bioscience/article/70/2/129/5661110"
+         },
+         {
+            "date": "March 8, 2020",
+             "title": "Participating in Minnesota bear study an opportunity of a lifetime",
+             "description": "An avid outdoorsman from Plummer in Red Lake County, Hemly has spent the past decade assisting bear researchers from the Minnesota Department of Natural Resources with a study to learn more about bears in the northwest part of the state.",
+             "img":"2020-03-08-Duluth-News-Tribune.jpg",
+             "goToLink":"https://www.duluthnewstribune.com/sports/outdoors/4987246-Participating-in-Minnesota-bear-study-an-opportunity-of-a-lifetime"
+         },
+         {
+            "date": "March 5, 2020",
+             "title": "Human hearts capture her heart",
+             "description": "When she was just 14, Dannyelle Donahue decided to pursue a career as a medical device inventor.",
+             "img":"2020-03-05-UMN.jpg",
+             "goToLink":"https://twin-cities.umn.edu/news-events/human-hearts-capture-her-heart"
+         },
+         {
+            "date": "February 11, 2020",
+             "title": "Visible Heart Laboratories Reaches International Territories with Education",
+             "description": "The Visible Heart® Laboratories at the University of Minnesota Medical School, is bridging the international gap; every year, over half a million people utilize their website.",
+             "img":"2020-02-11-UMN.jpg",
+             "goToLink":"https://med.umn.edu/news-events/visible-heart-laboratories-reaches-international-territories-education"
          }
 
     ]
