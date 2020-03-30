@@ -18,6 +18,10 @@
 				{
 					"name": "Education",
 					"md_path": "education.md"
+				},
+				{
+					"name": "Artificial Intelligence",
+					"md_path": "ai.md"
 				}
 			]
 		},

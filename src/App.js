@@ -64,6 +64,7 @@ import SkeletalMuscle from './components/ResearchTopics/SkeletalMuscle/SkeletalM
       import StimulatedMuscleForce from './components/ResearchTopics/SkeletalMuscle/StimulatedMuscleForce.js';
       import HypoxicDamage from './components/ResearchTopics/SkeletalMuscle/HypoxicDamage.js';
       import DoxorubicinChemomyectomy from './components/ResearchTopics/SkeletalMuscle/DoxorubicinChemomyectomy.js';
+import ArtificialIntelligence from './components/ResearchTopics/3DModeling/ArtificialIntelligence';
       
 class App extends Component {
   render() {
@@ -108,6 +109,7 @@ class App extends Component {
                   <Route path="/research-3d-2" component={VirtualReality} />
                   <Route path="/research-3d-3" component={Devices} />
                   <Route path="/research-3d-4" component={Education} />
+                  <Route path="/research-3d-5" component={ArtificialIntelligence} />
 
           <Route path="/research-ca" component={Cardiac} />
                   <Route path="/research-ca-1" component={CardiacPhysiology} />

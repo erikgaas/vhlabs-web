@@ -10,7 +10,8 @@ class ThreeDModeling extends Component {
                     <h3 id="researchTopicComponentMain"><a href="/research-3d-1" id="researchTopicATag">CarePrints</a></h3>
                     <h3 id="researchTopicComponentMain"><a href="/research-3d-2" id="researchTopicATag">Virtual Reality</a></h3> 
                     <h3 id="researchTopicComponentMain"><a href="/research-3d-3" id="researchTopicATag">Devices</a></h3>  
-                    <h3 id="researchTopicComponentMainLast"><a href="/research-3d-4" id="researchTopicATag">Education</a></h3> 
+                    <h3 id="researchTopicComponentMain"><a href="/research-3d-4" id="researchTopicATag">Education</a></h3> 
+                    <h3 id="researchTopicComponentMainLast"><a href="/research-3d-5" id="researchTopicATag">Artificial Intelligence</a></h3> 
                 </div>
             </div>
         );
