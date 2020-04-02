@@ -12,7 +12,8 @@ class Cardiac extends Component {
                <h3 id="researchTopicComponentMain"><a href="/research-ca-2" id="researchTopicATag">Large mammalian comparative cardiac anatomy</a></h3> 
                <h3 id="researchTopicComponentMain"><a href="/research-ca-3" id="researchTopicATag">Intracelluar recording and patch clamp techniques</a></h3>  
                <h3 id="researchTopicComponentMain"><a href="/research-ca-4" id="researchTopicATag">Surface or Transmural Electromyography</a></h3> 
-               <h3 id="researchTopicComponentMainLast"><a href="/research-ca-5" id="researchTopicATag">Action Potential Mapping</a></h3> 
+               <h3 id="researchTopicComponentMain"><a href="/research-ca-5" id="researchTopicATag">Action Potential Mapping</a></h3> 
+               <h3 id="researchTopicComponentMainLast"><a href="/research-ca-6" id="researchTopicATag">Human Heart Library</a></h3> 
             </div>
         </div>
         );

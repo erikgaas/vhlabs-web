@@ -41,6 +41,7 @@ import Cardiac from './components/ResearchTopics/Cardiac/Cardiac.js';
       import IntracellularRecording from './components/ResearchTopics/Cardiac/IntracellularRecording.js';
       import SurfaceElectromyography from './components/ResearchTopics/Cardiac/SurfaceElectromyography.js';
       import ActionPotentialMapping from './components/ResearchTopics/Cardiac/ActionPotentialMapping.js';        
+      import HumanHeartLibrary from './components/ResearchTopics/Cardiac/HumanHeartLibrary.js';        
 
 import PatientCare from './components/ResearchTopics/PatientCare/PatientCare.js';
       import ThermalManagement from './components/ResearchTopics/PatientCare/ThermalManagement.js';
@@ -117,6 +118,7 @@ class App extends Component {
                   <Route path="/research-ca-3" component={IntracellularRecording} />
                   <Route path="/research-ca-4" component={SurfaceElectromyography} />
                   <Route path="/research-ca-5" component={ActionPotentialMapping} />
+                  <Route path="/research-ca-6" component={HumanHeartLibrary} />
 
           <Route path="/research-pc" component={PatientCare} />
                   <Route path="/research-pc-1" component={ThermalManagement} />
