@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "http://www.vhlab.umn.edu/",
   "dependencies": {
-    "ajv": "^6.7.0",
+    "ajv": "^6.12.3",
     "jquery": "^3.4.1",
     "lodash": "^4.17.15",
     "moment": "^2.22.2",
